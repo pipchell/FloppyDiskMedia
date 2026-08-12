@@ -57,6 +57,8 @@ a:focus-visible {
 
 .narrow {
   width: min(720px, 92vw);
+  margin: 0 auto;
+  text-align: left;
 }
 
 .site-header {
